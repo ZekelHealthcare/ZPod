@@ -4,7 +4,7 @@
     <img src="https://cdn.rawgit.com/z-------------/cumulonimbus/35c95868/build/icon.svg" width="128" height="128" alt="CPod logo" />
   </a>
   <br>
-  CPod
+  ZPod
   <br>
 </h1>
 
@@ -17,7 +17,7 @@
 </div>
 <br>
 
-**NOTE: CPod is a work in progress. Please expect bugs (and feel free to contribute!).**
+**NOTE: ZPod is a work in progress. Please expect bugs (and feel free to contribute!).**
 
 A review by *OMG! Ubuntu!*: [A Terrific Podcast Client with a Terrible Name](http://www.omgubuntu.co.uk/2017/11/cumulonimbus-electron-podcast-client)
 
