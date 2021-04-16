@@ -19,13 +19,13 @@
 
 **NOTE: ZPod is a work in progress. Please expect bugs (and feel free to contribute!).**
 
-A review by *OMG! Ubuntu!*: [A Terrific Podcast Client with a Terrible Name](http://www.omgubuntu.co.uk/2017/11/cumulonimbus-electron-podcast-client)
+
 
 ![Screenshot](https://i.imgur.com/S7K9wrr.png)
 
 ## Install
 
-Get the [**latest releases**](https://github.com/z-------------/CPod/releases).
+Get the [**latest releases**](https://github.com/zekelhealthcare/ZPod/releases).
 
 Available for **Windows**, **macOS**, and **Linux**.
 
@@ -34,7 +34,7 @@ Available for **Windows**, **macOS**, and **Linux**.
 0. Have [Node.js 8](https://nodejs.org/en/download/releases/), [Yarn](https://yarnpkg.com/docs/install), and [gulp-cli](https://gulpjs.com/) installed, and `cd` to the repo directory.
 1. Run `yarn` to install npm dependencies.
 2. Run `gulp` to compile and concatenate JavaScript, SCSS, Pug, etc. (or `gulp both` to also watch for changes).
-3. Run `yarn start` to start CPod.
+3. Run `yarn start` to start ZPod.
 
 Be sure not to work on `all.js` or on any of the compiled `.html` or `.css` files when there is a `.pug` or `.scss` counterpart, respectively.
 
